@@ -1,0 +1,78 @@
+baseURL: "https://SamuelLawrence876.github.io/Hugo-toha-theme-deploy/"
+publishDir: docs
+
+languageCode: en-us
+title: "Samuel Lawrence"
+theme: "toha"
+
+# Allow raw html in markdown file
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+
+# Enable Google Analytics
+googleAnalytics: UA-174931179-1
+
+# Enable Disqus forum
+disqusShortname: does-not-exist
+
+# Enable global emoji support
+enableEmoji: true
+
+# Custom parameters
+params:
+  # Copyright Notice
+  copyright: © 2020 Copyright.
+
+  # Meta description for your site.  This will help the search engines to find your site.
+  description: Portfolio and personal blog of Samuel Lawrence.
+
+  # background image of the landing page
+  background: "images/cool.jpg"
+
+  # Provide logos for your site. The inverted logo will be used in the initial
+  # transparent navbar and the main logo will be used in the non-transparent navbar.
+  # It will be default to the theme logos if not provided.
+  logo:
+    main: /assets/images/main-logo.png
+    inverted: /assets/images/inverted-logo.png
+
+  # GitHub repo URL of your site
+#  gitRepo: https://github.com/SamuelLawrence876
+
+  # specify whether you want to write blog post or not
+  enableBlogPost: false
+
+  # specify whether you want to show Table of Contents in reading page
+  enableTOC: true
+
+  # specify the list of custom menus that you want to show in the top navbar.
+  # they will be separated by a divider from the main menus.
+  customMenus:
+#  - name: Notes
+#    url: https://hossainnotes.netlify.app/docs/example/
+
+  # Provide newsletter configuration. This feature hasn't been implemented yet.
+  # Currently, you can just hide it from the footer.
+  newsletter:
+    enable: false
+
+  # some information about you
+  author:
+    name: "Samuel Lawrence"
+    nickname: "Sam"
+    image: "images/sam.png"
+    # give your some contact information. they will be used in the footer
+    contactInfo:
+      email: "samuel_lawrence@outlook.com"
+      phone: "+44 7960 759450"
+    # a summary of what you do
+    summary:
+    - Welcome
+    - Let's build a sustainable future
+    - Get in touch

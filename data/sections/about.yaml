@@ -1,0 +1,63 @@
+# section information
+section:
+  name: About
+  enable: true
+  weight: 1
+  showOnNavbar: true
+
+# your designation
+designation: Finance specialist | Data Scientist
+# your company information
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am a passionate Finance Specialist with 3 years of working experience. I have a completed a multitude of Data Science related projects with the use of python'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "samuel_lawrence@outlook.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/SamuelLawrence876"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://stackoverflow.com/users/12506267/samuel-lawrence"
+
+
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: MS Office
+  percentage: 95
+  color: blue
+- name: Risk
+  percentage: 80
+  color: yellow
+- name: Python
+  percentage: 83
+  color: pink
+- name: Modelling
+  percentage: 85
+  color: green
+- name: Team Player
+  percentage: 90
+  color: sky
+- name: Machine Learning
+  percentage: 85
+  color: orange
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+# - name: Example 2
+#   percentage: 65
+#   color: "#8b8383"

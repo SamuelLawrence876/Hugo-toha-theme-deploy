@@ -1,0 +1,23 @@
+# section information
+section:
+  name: Achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: Wigton IPO
+  image: images/achievements/presenter.jpg
+  summary: Played an essnetial role in the deliverance of the Wigton IPO onto the Jamaica Stock Exchange.
+- title: Football
+  image: images/achievements/sport.jpg
+  summary: 2x defending champion of the inermural football league.
+- title: Graduation
+  image: images/achievements/graduation-cap.jpg
+  summary: Received Bachelor of Science (B.Sc.) in Finance from San Diego State University.
+- title: President/Founder of the cooking club
+  image: images/achievements/woman-winner.jpg
+  summary: Started a cooking club with an initial member count of 100+

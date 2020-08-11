@@ -1,0 +1,86 @@
+# section information
+section:
+  name: Experiences
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Victoria Mutual
+    url: "https://www.vmbs.com/"
+    location: London, UK
+    # company overview
+    overview: Victoria Mutual is a widely recognized company for its loan based prodcuts within the property development sphere.
+  positions:
+  - designation: Assitant Relationship Manager
+    start: Jan 2020
+    end: june 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Spearheaded the development of risk management dashboard to track the performance of automated credit decisions and new strategy implementation.
+    - Provided data analysis and portfolio stratification across the entire credit risk portfolio in support of capital modelling and credit risk reporting.
+    - Consulted Lenders and Credit Executives as necessary and worked with Loan Services to ensure loans were funded in a timely and compliant manner.
+
+
+- company:
+    name: Mayberry Investments
+    url: "https://www.mayberryinv.com/"
+    location: Kingston, Jamaica
+    overview: Mayberry Investments is a fullservice investment house, who's services include Equity Research, Asset Management, Investment Banking, Asset Management, Treasury
+  positions:
+  - designation: Management Trainee
+    start: August 2018
+    end: Jan 2020
+    responsibilities:
+    - Managed $5BN Jamaican dollars (JMD) fixed income portfolio funding operations and providing safe returns to Investors.
+    - Scrutinised financial statements to advise on local stock buy / sell prices using various valuation techniques while creating models to track bond / stock prices from diverse industries.
+    - Collaborated with a multifaceted team to utilise python skills to mitigate bond portfolio convexity / duration risk.
+
+- company:
+    name: KPMG
+    url: "https://home.kpmg/jm/en/home.html"
+    location: Kingston, Jamaica
+    overview: KPMG provides audit, tax and advisory services. They work closely with their clients, helping them to mitigate risk and grasp opportunities
+  positions:
+  - designation: External Auditor intern
+    start: Jun 2017
+    end: Jan 2017
+    responsibilities:
+    - Identified high-risk areas and developed mitigation plans alongside senior-level stakeholders.
+    - Assessed risk management projects related to security, identity management, change controls, monitoring, threat detection, vulnerability assessment and incident response based on various frameworks
+    - Worked with SAP security audit management to validate Business processes and develop audit methodology for risk key in scope controls.
+
+- company:
+    name: BCW (Capital Hedge Fund)
+    url: "http://icinsider.com/new-head-at-bcw-capital/"
+    location: Kingston, Jamaica
+    overview: BCW capital is a hedge fund whose primary dealing invovled porfolio managemnt for high net worth clients. Since 2017 the team has since lquidated the fund  and have moved on to other ventures.
+  positions:
+  - designation: Financial Analyst Intern
+    start: Jun 2017
+    end: Jan 2017
+    responsibilities:
+    - Prepared summary reports on key performance indicators like returns, leverage, property, geographic distribution and overall financial performance.
+    - Influenced and gained support for implementation from key operations partners in marketing, sales, and finance.
+    - Maintained liaison with the client, consultants and with fund managers.
+    - Conducted financial analysis to respond to requests from internal and external auditors, as required.
+
+- company:
+    name: Mayberry Investments
+    url: "https://www.mayberryinv.com/"
+    location: Kingston, Jamaica
+    overview: Mayberry Investments is a fullservice investment house, who's services include Equity Research, Asset Management, Investment Banking, Asset Management, Treasury
+  positions:
+  - designation: Data Analyst Intern
+    start: August 2015
+    end: Jan 2015
+    responsibilities:
+    - Quickly and accurately synthesised substantial data; maintained attention to detail to ensure financial statement data integrity.
+    - Prepared and delivered strategic presentations having utilised strong research and analysis skills.
+    - Aided strategic decision-making having created sales reports based on market trends / conditions and sales performance.
