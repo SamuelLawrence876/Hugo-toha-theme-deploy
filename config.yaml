@@ -1,4 +1,4 @@
-baseURL: "https://SamuelLawrence876.github.io/Hugo-toha-theme-deploy/"
+baseURL: "https://samuellawrence876.github.io/Hugo-toha-theme-deploy/"
 publishDir: docs
 
 languageCode: en-us
